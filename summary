@@ -1,0 +1,13 @@
+
+
+El tamaño seleccionado para los torneos es 2 
+
+EL ganador es seleccionado para ser padre con una probabilidad de 0.9 es 
+
+la probabilidad de que el crossover genere una descendencia es de 0.7, la de mutacion por lo tanto es 0.3
+
+la probabilidad de que cada objeto padre fuera excluido de la descendencia es de 2/I donde
+I es el numero de objetos in la solucion padre.
+
+The GA corre apartir de 10n(n = 100) generaciones
+
